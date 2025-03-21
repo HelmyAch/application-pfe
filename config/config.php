@@ -4,7 +4,7 @@
 	// Define database
 	define('dbhost', 'localhost');
 	define('dbuser', 'root');
-	define('dbpass', '');
+	define('dbpass', 'exemple');
 	define('dbname', 'animals');
 
 	// Connecting database
